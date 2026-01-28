@@ -1,0 +1,77 @@
+section {
+    background-color: rgb(156, 230, 255);
+}
+
+.resume-full {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 70px;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    margin-left: 210px;
+}
+
+.ps {
+    display: flex;
+    justify-content: center;
+    height: 20px;
+}
+
+.info1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    height: 8px;
+    display: flex;  
+    justify-content: center;
+}
+
+p {
+    font-size: small;
+}
+
+h4 {
+    height: 5px;
+}
+
+li {
+    font-size: small;
+}
+
+h5 {
+    height: 5px;
+    margin-top: 5px;
+}
+
+.e1 {
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.date {
+    font-weight: 100;
+}
+
+img {
+    border: 2px solid;
+    height: 150px;
+    margin-left: 10px;
+}
